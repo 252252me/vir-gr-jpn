@@ -46,3 +46,4 @@ vless://956a7cf1-9fb0-48a8-cf44-ab7412da75eb@88.214.21.18:41965?type=tcp&securit
 vless://ccf37c9f-fcd0-41b9-c90c-3471cfde5862@88.214.21.18:51150?type=tcp&security=reality&fp=firefox&pbk=a5Wds329HNG7BN2zRc2Y5qu15IGMxetdbAq2L-ti02I&sni=js.org&flow=xtls-rprx-vision&sid=8b56ef36&spx=%2F#js.org-0fwe2sxy
 vless://11aaf9db-a584-4bcf-e6d8-39d5e18ef255@88.214.21.18:45948?type=tcp&security=reality&fp=firefox&pbk=yNHzbfl_zHyUmHZ5ttfxIa7StSQvAyhANS-sphJ33AM&sni=tagesspiegel.de&sid=19f1f53b&spx=%2F#tagesspiegel.de-xtectc35
 vless://088376a2-0dc1-4b3e-8c7f-ef85c61d57e0@88.214.21.18:43990?type=tcp&security=reality&fp=firefox&pbk=Chc8hVZzh1KGxtXl3oJPww7w-g8esmQLSTaq7wC3-1k&sni=roche.com&sid=5bdf023f&spx=%2F#roche.com-qt39jycu
+vless://ff5233e9-af72-40d7-f65b-4e92c0215398@88.214.21.18:49439?type=tcp&security=reality&fp=firefox&pbk=ycmI0POSvsMOoTRYbKHaX0PjwmtEUZ2ojdX0lxAUWkQ&sni=sciencedirect.com&flow=xtls-rprx-vision&sid=99261f3f&spx=%2F#Siencedirect-k76dpodw
